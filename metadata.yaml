@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '4888'
     url: http://www.gutenberg.org/2009/agents/4888
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13840#The-Sign-of-the-Red-Cross--13-A-Tale-of-Old-London
 gutenberg_issued: '2004-10-23'
 gutenberg_type: Text
 identifiers:
